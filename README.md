@@ -10,7 +10,7 @@ Features:
 
 ![image](https://user-images.githubusercontent.com/63649337/210895342-e7e9101e-c47a-4c75-b7eb-38bdc45fc4ee.png)
 
-
+Live demo: [Click here!](https://admin-dashboard-40d283.netlify.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
