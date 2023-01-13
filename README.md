@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Admin Dashboard built with ReactJs and MaterialUI -- Sample
+
+Features:
+- Light/Dark mode
+- Responsive UI
+- Sign up form
+- Modern data presentation
+
+![image](https://user-images.githubusercontent.com/63649337/210895019-910e4451-5d4a-473d-910b-6d7cb12ffb41.png)
+
+![image](https://user-images.githubusercontent.com/63649337/210895342-e7e9101e-c47a-4c75-b7eb-38bdc45fc4ee.png)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
